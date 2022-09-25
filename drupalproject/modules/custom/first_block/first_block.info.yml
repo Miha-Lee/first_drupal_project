@@ -1,0 +1,7 @@
+name: First Block
+type: module
+description: Defines a custom module.
+core_version_requirement: ^8 || ^9
+package: custom
+dependecies:
+  - drupal:block

@@ -1,0 +1,11 @@
+global_styling:
+  version: VERSION
+  css:
+    theme:
+      css/bootstrap.min.css: {}
+      css/style.css: {}
+  js:
+    js/jquery-3.6.1.min.js: {}
+    js/bootstrap.min.js: {}
+    js/popper.min.js: {}
+    js/app.js: {}

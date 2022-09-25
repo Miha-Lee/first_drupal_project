@@ -1,0 +1,15 @@
+name: Drupal Project
+type: theme
+description: "First Drupal Project"
+version: VERSION
+core_version_requirement: ^8 || ^9
+base theme: false
+package: Custom
+screenshot: screenshot.png
+libraries:
+  - drupal_project/global_styling
+regions:
+  banner: Banner
+  about: About
+  content: Content
+  footer: Footer
